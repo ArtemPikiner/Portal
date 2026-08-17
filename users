@@ -1,0 +1,14 @@
+{
+  "Operator": {
+    "Password": "123",
+    "Role": "Operator"
+  },
+  "Maxim.G": {
+    "Password": "Maxim123",
+    "Role": "Supervisor"
+  },
+  "Artem": {
+    "Password": "Artem123",
+    "Role": "Admin"
+  }
+}
